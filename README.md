@@ -1,5 +1,5 @@
 # min-cutnalign
-A simple implementation of the following paper:
+A simple implementation of the following papers:
 
 1. Lardilleux, Adrien, François Yvon, and Yves Lepage.
 "Hierarchical sub-sentential alignment with Anymalign." 

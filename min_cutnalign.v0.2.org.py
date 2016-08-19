@@ -53,7 +53,7 @@ def min_cutnalign(tt, stdin):
 if __name__ == '__main__': 
 	import argparse
 	parser = argparse.ArgumentParser(description="""
-	This is an python script for extracting ngram entries for building a memory-based machine translation system (also, ebmt and abmt).
+	This is an python script for real-time word alignment if given the translation table in advance.
 	""")
 	parser.add_argument('-t', action='store', dest='tt', type=argparse.FileType('r'),
 		            help='translation table')

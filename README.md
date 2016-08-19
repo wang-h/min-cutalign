@@ -8,4 +8,4 @@ A simple implementation of the following paper:
 
 2. Hao Wang and Yves Lepage, 
 "Yet Another Symmetrical and Real-time Word Alignment Method: Hierarchical Sub-sentential Alignment using F-measure".
-The 30th Pacific Asia Conference on Language, Information and Computation. Seoul, 2016.
+The 30th Pacific Asia Conference on Language, Information and Computation. (PACLIC 2016) Seoul, 2016.

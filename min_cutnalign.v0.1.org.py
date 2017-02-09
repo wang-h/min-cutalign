@@ -104,7 +104,7 @@ def min_cutnalign(tt, stdin):
 		links = set()
 		tree = partitionize(accumulated_matrix, 0, 0, lx, ly, links)
 		print (" ".join(str(x)+"-"+str(y) for x,y in links))
-		break
+		 
 		
 if __name__ == '__main__': 
 	import argparse

@@ -47,8 +47,7 @@ def min_cutnalign(tt, stdin):
 		matrix   = alignment_matrix(tt, sws, tws) 
 		
 		alignment= _partitionize.partitionize_in_C(matrix, lx, ly) 
-		print (alignment)
-		break
+		print (alignment) 
 		
 if __name__ == '__main__': 
 	import argparse

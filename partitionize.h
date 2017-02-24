@@ -1,17 +1,15 @@
 /*
- * cutnalign.h
- *
+ *  cutnalign.h
+ *  Copyright (c) 2017, Yves Lepage, Chonlathorn Kwankajornkiet and Hao Wang*
  *  Created on: 2 Jun 2016
- *      Author: hao
+ *  Author: Hao Wang
  */
 
 #ifndef PARTITIONIZE_H_
 #define PARTITIONIZE_H_
 
 #define _MIN_ 10e-7
-typedef enum { false, true } bool;
-/* File : example.h */
-/* Copyright (c) 2017, Yves Lepage, Chonlathorn Kwankajornkiet and Hao Wang*/
+typedef enum { false, true } bool; 
 typedef struct _LIST{
 	int i;
 	int j;
